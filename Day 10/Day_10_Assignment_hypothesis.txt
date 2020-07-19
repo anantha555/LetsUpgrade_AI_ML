@@ -1,0 +1,12 @@
+Hypothesis statements based on attrition dataset are:
+
+1. Employees with more trainings may be less likely to leave.
+2. The age with the highest count of employee attrition is age 29 & 31. 
+3. The age with the highest retention of employees is age 34 & 35.
+4. Employees with a higher income are less likely to leave than someone with a lower income.
+5. Employees who travel frequently show higher proportion of leavers compared to their counterparts.
+6. Single employee show the largest proportion of leavers, compared to Married and Divorced counterparts.
+7. Employees who live further away from their work show higher proportion of leavers compared to their counterparts.
+8. Employees that have already worked at several companies previously show higher proportion of leavers compared to their counterparts.
+9. About 10% of leavers left when they reach their 2-year anniversary at the company.
+10.The average number of years wit current manager for currently active employees is 4.37 years and ex-employees is 2.85 years.
